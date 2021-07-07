@@ -1,0 +1,142 @@
+*
+{
+	box-sizing; border-box;
+}
+body
+{
+	/*height: 100vh;*/
+	margin:0;
+	background-color: #d9d9d9;
+}
+
+header
+{
+	background-color: #ffffff;
+	display: block;
+	height:100px;
+	width: 100%;
+	padding-bottom:1em;
+	padding-top:1em;
+	font-family: 'Lato', sans-serif;
+	color:#000000;
+}
+
+section
+{
+	float: left;
+	background-color: #d9d9d9;
+	width: 70%;
+	font-family: 'Bitter', serif;
+	color: #000000;
+	border-right: 2px;
+	border-right-color: white;
+	border-right-style: solid;
+	position: :flex;
+	/*border-top: hidden;
+	border-bottom: 3px;
+	border-left: hidden;
+	border-right: 3px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;*/
+	box-sizing: border-box;
+}
+
+aside
+{
+	position: flex;
+	float: left;
+	background-color: #d9d9d9;
+	width: 30%;
+	font-family: 'Bitter', serif;
+	font-size: 13px;
+	color: #000000;
+	/*border-top: hidden;
+	border-bottom: 3px;
+	border-right: hidden;
+	border-left: 3px;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-bottom-color: #0;
+	border-bottom-style: solid;
+	box-sizing: border-box;*/
+}
+
+div.c_wrapper
+{
+	background-color: #d9d9d9;
+	width: 100%;
+	overflow: auto;
+
+}
+
+footer
+{
+
+	position:absolute;
+	height: 50px;
+	box-sizing: border-box;
+	background-color: #ffffff;
+	width:100%;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+
+}
+
+div.wrapper
+{
+	overflow: auto;
+}
+li
+{
+		display: inline;
+		padding-left: 25px;
+		padding-right: 25px;
+		width: 10%;
+		font-family: 'Bitter', serif;
+		float: left;
+	  border-right:1px solid #bbb;
+}
+ul
+{
+	  display: block;
+		padding-bottom: 0.5em;
+		padding-top: 0.5em;
+	  text-decoration: none;
+	  width:100%;
+		background-color: #4484ce;
+		margin:0;
+		box-sizing: border-box;
+		list-style-type: none;
+	  padding: 0;
+	  overflow: hidden;
+}
+nav
+{
+	text-align: center;
+	display: block;
+
+}
+li:last-child
+{
+    border-right: none;
+}
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active)
+{
+    background-color: #1458a8;
+}
+
+.active
+{
+    background-color: #1458a8;
+}

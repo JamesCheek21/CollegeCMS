@@ -1,0 +1,11 @@
+Student
+U: student
+P: student
+
+Staff
+U: staff
+P: staff
+
+Webmaster
+U: webmaster
+P: webmaster

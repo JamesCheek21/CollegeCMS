@@ -1,0 +1,3 @@
+ErrorDocument 404 /project/404.php
+ErrorDocument 403 /project/403.php
+Options -Indexes

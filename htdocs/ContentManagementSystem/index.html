@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>POST Form</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <!--<form name="example" method="POST" action="checklogin.php">
+      <legend> Login </legend>
+      <fieldset>
+        Username: <input type="text" name="username">
+        Password: <input type="password" name="password">
+        <input type="submit">
+      </fieldset>
+    </form>-->
+    <div class="container" style="max-width:640px;">
+      <div class="panel panel-primary">
+        <div class="panel-heading" style="text-align:center;">
+          <h1>PHP Login System</h1>
+        </div>
+        <div class="panel-body">
+          <form method="post" action="checklogin.php">
+            <p>
+              <input name="username" type="text" placeholder="Username" class="form-control">
+            </p>
+            <p>
+              <input name="password" type="password" placeholder="Password" class="form-control">
+            </p>
+            <p>
+              <button type="submit" class="btn btn-success btn-block">Sign In</button>
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </body>
+</html>

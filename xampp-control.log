@@ -1,0 +1,2115 @@
+09:35:02  [main] 	Initializing Control Panel
+09:35:02  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:35:02  [main] 	XAMPP Version: 5.6.28
+09:35:02  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:35:02  [main] 	You are not running with administrator rights! This will work for
+09:35:02  [main] 	most application stuff but whenever you do something with services
+09:35:02  [main] 	there will be a security dialogue or things will break! So think 
+09:35:02  [main] 	about running this application with administrator rights!
+09:35:02  [main] 	XAMPP Installation Directory: "e:\year 2\web development\work\xampp\"
+09:35:02  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+09:35:02  [main] 	Checking for prerequisites
+09:35:08  [main] 	All prerequisites found
+09:35:08  [main] 	Initializing Modules
+09:35:08  [main] 	The FileZilla module is disabled
+09:35:08  [main] 	The Mercury module is disabled
+09:35:08  [main] 	Starting Check-Timer
+09:35:08  [main] 	Control Panel Ready
+09:35:12  [Apache] 	Attempting to start Apache app...
+09:35:12  [Apache] 	Status change detected: running
+09:35:12  [Apache] 	Status change detected: stopped
+09:35:12  [Apache] 	Error: Apache shutdown unexpectedly.
+09:35:12  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:35:12  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:35:12  [Apache] 	Press the Logs button to view error logs and check
+09:35:12  [Apache] 	the Windows Event Viewer for more clues
+09:35:12  [Apache] 	If you need more help, copy and post this
+09:35:12  [Apache] 	entire log window on the forums
+09:35:16  [mysql] 	Attempting to start MySQL app...
+10:41:35  [main] 	Deinitializing Modules
+10:41:35  [main] 	Deinitializing Control Panel
+
+09:50:54  [main] 	Initializing Control Panel
+09:50:54  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:50:54  [main] 	XAMPP Version: 5.6.28
+09:50:54  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:50:54  [main] 	You are not running with administrator rights! This will work for
+09:50:54  [main] 	most application stuff but whenever you do something with services
+09:50:54  [main] 	there will be a security dialogue or things will break! So think 
+09:50:54  [main] 	about running this application with administrator rights!
+09:50:54  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:50:54  [main] 	Checking for prerequisites
+09:50:58  [main] 	All prerequisites found
+09:50:58  [main] 	Initializing Modules
+09:50:58  [Apache] 	Problem detected!
+09:50:58  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:50:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:50:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:50:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:50:58  [Apache] 	Problem detected!
+09:50:58  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:50:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:50:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:50:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:50:58  [mysql] 	Problem detected!
+09:50:58  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:50:58  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:50:58  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:50:58  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:50:58  [main] 	The FileZilla module is disabled
+09:50:58  [main] 	The Mercury module is disabled
+09:50:58  [main] 	Starting Check-Timer
+09:50:58  [main] 	Control Panel Ready
+09:51:09  [main] 	Deinitializing Modules
+09:51:09  [main] 	Deinitializing Control Panel
+
+09:51:11  [main] 	Initializing Control Panel
+09:51:11  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:51:11  [main] 	XAMPP Version: 5.6.28
+09:51:11  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:51:11  [main] 	You are not running with administrator rights! This will work for
+09:51:11  [main] 	most application stuff but whenever you do something with services
+09:51:11  [main] 	there will be a security dialogue or things will break! So think 
+09:51:11  [main] 	about running this application with administrator rights!
+09:51:11  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:51:11  [main] 	Checking for prerequisites
+09:51:11  [main] 	All prerequisites found
+09:51:11  [main] 	Initializing Modules
+09:51:11  [Apache] 	Problem detected!
+09:51:11  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:51:11  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:11  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:11  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:11  [Apache] 	Problem detected!
+09:51:11  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:51:11  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:11  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:11  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:11  [mysql] 	Problem detected!
+09:51:11  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:51:11  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:51:11  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:11  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:51:11  [main] 	The FileZilla module is disabled
+09:51:11  [main] 	The Mercury module is disabled
+09:51:11  [main] 	Starting Check-Timer
+09:51:11  [main] 	Control Panel Ready
+09:51:13  [Apache] 	Problem detected!
+09:51:13  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:51:13  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:13  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:13  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:13  [Apache] 	Problem detected!
+09:51:13  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:51:13  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:51:13  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:13  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:51:13  [Apache] 	Attempting to start Apache app...
+09:51:13  [Apache] 	Status change detected: running
+09:51:14  [Apache] 	Status change detected: stopped
+09:51:14  [Apache] 	Error: Apache shutdown unexpectedly.
+09:51:14  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:51:14  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:51:14  [Apache] 	Press the Logs button to view error logs and check
+09:51:14  [Apache] 	the Windows Event Viewer for more clues
+09:51:14  [Apache] 	If you need more help, copy and post this
+09:51:14  [Apache] 	entire log window on the forums
+09:51:17  [mysql] 	Problem detected!
+09:51:17  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:51:17  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:51:17  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:51:17  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:51:17  [mysql] 	Attempting to start MySQL app...
+09:51:18  [mysql] 	Status change detected: running
+09:51:18  [mysql] 	Status change detected: stopped
+09:51:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:51:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:51:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:51:18  [mysql] 	Press the Logs button to view error logs and check
+09:51:18  [mysql] 	the Windows Event Viewer for more clues
+09:51:18  [mysql] 	If you need more help, copy and post this
+09:51:18  [mysql] 	entire log window on the forums
+09:52:08  [Apache] 	Status change detected: running
+09:52:10  [Apache] 	Status change detected: stopped
+09:52:10  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:10  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:10  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:10  [Apache] 	Press the Logs button to view error logs and check
+09:52:10  [Apache] 	the Windows Event Viewer for more clues
+09:52:10  [Apache] 	If you need more help, copy and post this
+09:52:10  [Apache] 	entire log window on the forums
+09:52:14  [mysql] 	Status change detected: running
+09:52:23  [Apache] 	Status change detected: running
+09:52:24  [Apache] 	Status change detected: stopped
+09:52:24  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:24  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:24  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:24  [Apache] 	Press the Logs button to view error logs and check
+09:52:24  [Apache] 	the Windows Event Viewer for more clues
+09:52:24  [Apache] 	If you need more help, copy and post this
+09:52:24  [Apache] 	entire log window on the forums
+09:52:25  [mysql] 	Status change detected: stopped
+09:52:25  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:52:25  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:52:25  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:52:25  [mysql] 	Press the Logs button to view error logs and check
+09:52:25  [mysql] 	the Windows Event Viewer for more clues
+09:52:25  [mysql] 	If you need more help, copy and post this
+09:52:25  [mysql] 	entire log window on the forums
+09:52:30  [Apache] 	Status change detected: running
+09:52:30  [Apache] 	Status change detected: stopped
+09:52:30  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:30  [Apache] 	Press the Logs button to view error logs and check
+09:52:30  [Apache] 	the Windows Event Viewer for more clues
+09:52:30  [Apache] 	If you need more help, copy and post this
+09:52:30  [Apache] 	entire log window on the forums
+09:52:34  [main] 	Deinitializing Modules
+09:52:34  [main] 	Deinitializing Control Panel
+
+09:52:05  [main] 	Initializing Control Panel
+09:52:05  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:52:05  [main] 	XAMPP Version: 5.6.28
+09:52:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:52:05  [main] 	You are not running with administrator rights! This will work for
+09:52:05  [main] 	most application stuff but whenever you do something with services
+09:52:05  [main] 	there will be a security dialogue or things will break! So think 
+09:52:05  [main] 	about running this application with administrator rights!
+09:52:05  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:52:05  [main] 	Checking for prerequisites
+09:52:05  [main] 	All prerequisites found
+09:52:05  [main] 	Initializing Modules
+09:52:05  [Apache] 	Problem detected!
+09:52:05  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:05  [Apache] 	Problem detected!
+09:52:05  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:05  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:05  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:05  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:05  [mysql] 	Problem detected!
+09:52:05  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:52:05  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:52:05  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:05  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:52:05  [main] 	The FileZilla module is disabled
+09:52:05  [main] 	The Mercury module is disabled
+09:52:05  [main] 	Starting Check-Timer
+09:52:05  [main] 	Control Panel Ready
+09:52:08  [Apache] 	Problem detected!
+09:52:08  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:08  [Apache] 	Problem detected!
+09:52:08  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:08  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:08  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:08  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:08  [Apache] 	Attempting to start Apache app...
+09:52:08  [Apache] 	Status change detected: running
+09:52:10  [Apache] 	Status change detected: stopped
+09:52:10  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:10  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:10  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:10  [Apache] 	Press the Logs button to view error logs and check
+09:52:10  [Apache] 	the Windows Event Viewer for more clues
+09:52:10  [Apache] 	If you need more help, copy and post this
+09:52:10  [Apache] 	entire log window on the forums
+09:52:14  [mysql] 	Problem detected!
+09:52:14  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:52:14  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:52:14  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:14  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:52:14  [mysql] 	Attempting to start MySQL app...
+09:52:14  [mysql] 	Status change detected: running
+09:52:21  [Apache] 	Problem detected!
+09:52:21  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:21  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:21  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:21  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:21  [Apache] 	Problem detected!
+09:52:21  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:21  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:21  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:21  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:21  [Apache] 	Attempting to start Apache app...
+09:52:23  [Apache] 	Status change detected: running
+09:52:24  [Apache] 	Status change detected: stopped
+09:52:24  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:24  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:24  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:24  [Apache] 	Press the Logs button to view error logs and check
+09:52:24  [Apache] 	the Windows Event Viewer for more clues
+09:52:24  [Apache] 	If you need more help, copy and post this
+09:52:24  [Apache] 	entire log window on the forums
+09:52:25  [mysql] 	Status change detected: stopped
+09:52:25  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:52:25  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:52:25  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:52:25  [mysql] 	Press the Logs button to view error logs and check
+09:52:25  [mysql] 	the Windows Event Viewer for more clues
+09:52:25  [mysql] 	If you need more help, copy and post this
+09:52:25  [mysql] 	entire log window on the forums
+09:52:30  [Apache] 	Problem detected!
+09:52:30  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:30  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:30  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:30  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:30  [Apache] 	Problem detected!
+09:52:30  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:30  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:30  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:30  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:30  [Apache] 	Attempting to start Apache app...
+09:52:30  [Apache] 	Status change detected: running
+09:52:30  [Apache] 	Status change detected: stopped
+09:52:30  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:30  [Apache] 	Press the Logs button to view error logs and check
+09:52:30  [Apache] 	the Windows Event Viewer for more clues
+09:52:30  [Apache] 	If you need more help, copy and post this
+09:52:30  [Apache] 	entire log window on the forums
+09:52:36  [main] 	Deinitializing Modules
+09:52:36  [main] 	Deinitializing Control Panel
+
+09:52:39  [main] 	Initializing Control Panel
+09:52:39  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:52:39  [main] 	XAMPP Version: 5.6.28
+09:52:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:52:39  [main] 	You are not running with administrator rights! This will work for
+09:52:39  [main] 	most application stuff but whenever you do something with services
+09:52:39  [main] 	there will be a security dialogue or things will break! So think 
+09:52:39  [main] 	about running this application with administrator rights!
+09:52:39  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:52:39  [main] 	Checking for prerequisites
+09:52:39  [main] 	All prerequisites found
+09:52:39  [main] 	Initializing Modules
+09:52:39  [Apache] 	Problem detected!
+09:52:39  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:39  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:39  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:39  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:39  [Apache] 	Problem detected!
+09:52:39  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:39  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:39  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:39  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:39  [mysql] 	Problem detected!
+09:52:39  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:52:39  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:52:39  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:39  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:52:39  [main] 	The FileZilla module is disabled
+09:52:39  [main] 	The Mercury module is disabled
+09:52:39  [main] 	Starting Check-Timer
+09:52:39  [main] 	Control Panel Ready
+09:52:44  [mysql] 	Problem detected!
+09:52:44  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:52:44  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:52:44  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:44  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:52:44  [mysql] 	Attempting to start MySQL app...
+09:52:45  [mysql] 	Status change detected: running
+09:52:48  [Apache] 	Problem detected!
+09:52:48  [Apache] 	Port 80 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:48  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:48  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:48  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:48  [Apache] 	Problem detected!
+09:52:48  [Apache] 	Port 443 in use by "e:\year 2\web development\work\xampp\apache\bin\httpd.exe" with PID 3176!
+09:52:48  [Apache] 	Apache WILL NOT start without the configured ports free!
+09:52:48  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:48  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+09:52:48  [Apache] 	Attempting to start Apache app...
+09:52:48  [Apache] 	Status change detected: running
+09:52:48  [mysql] 	Status change detected: stopped
+09:52:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:52:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:52:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:52:48  [mysql] 	Press the Logs button to view error logs and check
+09:52:48  [mysql] 	the Windows Event Viewer for more clues
+09:52:48  [mysql] 	If you need more help, copy and post this
+09:52:48  [mysql] 	entire log window on the forums
+09:52:48  [Apache] 	Status change detected: stopped
+09:52:48  [Apache] 	Error: Apache shutdown unexpectedly.
+09:52:48  [Apache] 	This may be due to a blocked port, missing dependencies, 
+09:52:48  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+09:52:48  [Apache] 	Press the Logs button to view error logs and check
+09:52:48  [Apache] 	the Windows Event Viewer for more clues
+09:52:48  [Apache] 	If you need more help, copy and post this
+09:52:48  [Apache] 	entire log window on the forums
+09:52:58  [mysql] 	Problem detected!
+09:52:58  [mysql] 	Port 3306 in use by "e:\year 2\web development\work\xampp\mysql\bin\mysqld.exe"!
+09:52:58  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:52:58  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:52:58  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:52:58  [mysql] 	Attempting to start MySQL app...
+09:52:59  [mysql] 	Status change detected: running
+09:53:02  [mysql] 	Status change detected: stopped
+09:53:02  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:53:02  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:53:02  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:53:02  [mysql] 	Press the Logs button to view error logs and check
+09:53:02  [mysql] 	the Windows Event Viewer for more clues
+09:53:02  [mysql] 	If you need more help, copy and post this
+09:53:02  [mysql] 	entire log window on the forums
+09:54:34  [main] 	Deinitializing Modules
+09:54:34  [main] 	Deinitializing Control Panel
+
+13:01:02  [main] 	Initializing Control Panel
+13:01:02  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+13:01:02  [main] 	XAMPP Version: 5.6.28
+13:01:02  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+13:01:02  [main] 	You are not running with administrator rights! This will work for
+13:01:02  [main] 	most application stuff but whenever you do something with services
+13:01:02  [main] 	there will be a security dialogue or things will break! So think 
+13:01:02  [main] 	about running this application with administrator rights!
+13:01:02  [main] 	XAMPP Installation Directory: "e:\xampp\"
+13:01:02  [main] 	Checking for prerequisites
+13:01:11  [main] 	All prerequisites found
+13:01:11  [main] 	Initializing Modules
+13:01:11  [main] 	The FileZilla module is disabled
+13:01:11  [main] 	The Mercury module is disabled
+13:01:11  [main] 	Starting Check-Timer
+13:01:11  [main] 	Control Panel Ready
+13:01:36  [Apache] 	Attempting to start Apache app...
+13:01:36  [Apache] 	Status change detected: running
+13:01:37  [mysql] 	Attempting to start MySQL app...
+13:01:37  [mysql] 	Status change detected: running
+13:49:11  [main] 	Deinitializing Modules
+13:49:11  [main] 	Deinitializing Control Panel
+
+09:00:02  [main] 	Initializing Control Panel
+09:00:02  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:00:02  [main] 	XAMPP Version: 5.6.28
+09:00:02  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:00:02  [main] 	You are not running with administrator rights! This will work for
+09:00:02  [main] 	most application stuff but whenever you do something with services
+09:00:02  [main] 	there will be a security dialogue or things will break! So think 
+09:00:02  [main] 	about running this application with administrator rights!
+09:00:02  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:00:02  [main] 	Checking for prerequisites
+09:00:02  [main] 	All prerequisites found
+09:00:02  [main] 	Initializing Modules
+09:00:02  [Apache] 	XAMPP Apache is already running on port 80
+09:00:02  [Apache] 	XAMPP Apache is already running on port 443
+09:00:02  [mysql] 	XAMPP MySQL is already running on port 3306
+09:00:02  [main] 	The FileZilla module is disabled
+09:00:02  [main] 	The Mercury module is disabled
+09:00:02  [main] 	Starting Check-Timer
+09:00:02  [main] 	Control Panel Ready
+09:00:03  [Apache] 	Attempting to stop Apache (PID: 1832)
+09:00:03  [Apache] 	Attempting to stop Apache (PID: 5680)
+09:00:04  [Apache] 	Status change detected: stopped
+09:00:05  [mysql] 	Attempting to stop MySQL app...
+09:00:05  [mysql] 	Status change detected: stopped
+09:00:06  [Apache] 	Attempting to start Apache app...
+09:00:06  [Apache] 	Status change detected: running
+09:00:06  [mysql] 	Attempting to start MySQL app...
+09:00:06  [mysql] 	Status change detected: running
+10:24:17  [main] 	Deinitializing Modules
+10:24:17  [main] 	Deinitializing Control Panel
+
+09:02:03  [main] 	Initializing Control Panel
+09:02:03  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:02:03  [main] 	XAMPP Version: 5.6.28
+09:02:03  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:02:03  [main] 	You are not running with administrator rights! This will work for
+09:02:03  [main] 	most application stuff but whenever you do something with services
+09:02:03  [main] 	there will be a security dialogue or things will break! So think 
+09:02:03  [main] 	about running this application with administrator rights!
+09:02:03  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:02:03  [main] 	Checking for prerequisites
+09:02:10  [main] 	All prerequisites found
+09:02:10  [main] 	Initializing Modules
+09:02:11  [main] 	The FileZilla module is disabled
+09:02:11  [main] 	The Mercury module is disabled
+09:02:11  [main] 	Starting Check-Timer
+09:02:11  [main] 	Control Panel Ready
+09:02:17  [Apache] 	Attempting to start Apache app...
+09:02:17  [Apache] 	Status change detected: running
+09:02:18  [mysql] 	Attempting to start MySQL app...
+09:02:22  [mysql] 	Status change detected: running
+10:45:15  [main] 	Deinitializing Modules
+10:45:15  [main] 	Deinitializing Control Panel
+
+09:37:16  [main] 	Initializing Control Panel
+09:37:16  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:37:16  [main] 	XAMPP Version: 5.6.28
+09:37:16  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:37:16  [main] 	You are not running with administrator rights! This will work for
+09:37:16  [main] 	most application stuff but whenever you do something with services
+09:37:16  [main] 	there will be a security dialogue or things will break! So think 
+09:37:16  [main] 	about running this application with administrator rights!
+09:37:16  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:37:16  [main] 	Checking for prerequisites
+09:37:45  [main] 	All prerequisites found
+09:37:45  [main] 	Initializing Modules
+09:37:45  [main] 	The FileZilla module is disabled
+09:37:45  [main] 	The Mercury module is disabled
+09:37:45  [main] 	Starting Check-Timer
+09:37:45  [main] 	Control Panel Ready
+09:37:47  [Apache] 	Status change detected: running
+09:37:47  [mysql] 	Status change detected: running
+10:46:17  [main] 	Deinitializing Modules
+10:46:17  [main] 	Deinitializing Control Panel
+
+09:37:38  [main] 	Initializing Control Panel
+09:37:38  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:37:38  [main] 	XAMPP Version: 5.6.28
+09:37:38  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:37:38  [main] 	You are not running with administrator rights! This will work for
+09:37:38  [main] 	most application stuff but whenever you do something with services
+09:37:38  [main] 	there will be a security dialogue or things will break! So think 
+09:37:38  [main] 	about running this application with administrator rights!
+09:37:38  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:37:38  [main] 	Checking for prerequisites
+09:37:45  [main] 	All prerequisites found
+09:37:45  [main] 	Initializing Modules
+09:37:45  [main] 	The FileZilla module is disabled
+09:37:45  [main] 	The Mercury module is disabled
+09:37:45  [main] 	Starting Check-Timer
+09:37:45  [main] 	Control Panel Ready
+09:37:46  [Apache] 	Attempting to start Apache app...
+09:37:47  [Apache] 	Status change detected: running
+09:37:47  [mysql] 	Attempting to start MySQL app...
+09:37:47  [mysql] 	Status change detected: running
+10:46:17  [main] 	Deinitializing Modules
+10:46:17  [main] 	Deinitializing Control Panel
+
+11:14:04  [main] 	Initializing Control Panel
+11:14:05  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+11:14:05  [main] 	XAMPP Version: 5.6.28
+11:14:05  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:14:05  [main] 	You are not running with administrator rights! This will work for
+11:14:05  [main] 	most application stuff but whenever you do something with services
+11:14:05  [main] 	there will be a security dialogue or things will break! So think 
+11:14:05  [main] 	about running this application with administrator rights!
+11:14:05  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:14:05  [main] 	Checking for prerequisites
+11:14:10  [main] 	All prerequisites found
+11:14:10  [main] 	Initializing Modules
+11:14:10  [main] 	The FileZilla module is disabled
+11:14:10  [main] 	The Mercury module is disabled
+11:14:10  [main] 	Starting Check-Timer
+11:14:10  [main] 	Control Panel Ready
+11:14:13  [Apache] 	Attempting to start Apache app...
+11:14:13  [Apache] 	Status change detected: running
+11:14:13  [mysql] 	Attempting to start MySQL app...
+11:14:14  [mysql] 	Status change detected: running
+11:49:53  [main] 	Deinitializing Modules
+11:49:53  [main] 	Deinitializing Control Panel
+
+09:08:55  [main] 	Initializing Control Panel
+09:08:55  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:08:55  [main] 	XAMPP Version: 5.6.28
+09:08:55  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:08:55  [main] 	You are not running with administrator rights! This will work for
+09:08:55  [main] 	most application stuff but whenever you do something with services
+09:08:55  [main] 	there will be a security dialogue or things will break! So think 
+09:08:55  [main] 	about running this application with administrator rights!
+09:08:55  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:08:55  [main] 	Checking for prerequisites
+09:09:00  [main] 	All prerequisites found
+09:09:00  [main] 	Initializing Modules
+09:09:00  [main] 	The FileZilla module is disabled
+09:09:00  [main] 	The Mercury module is disabled
+09:09:00  [main] 	Enabling autostart for module "Apache"
+09:09:00  [main] 	Enabling autostart for module "MySQL"
+09:09:00  [main] 	Starting Check-Timer
+09:09:00  [main] 	Control Panel Ready
+09:09:00  [Apache] 	Autostart active: starting...
+09:09:00  [Apache] 	Attempting to start Apache app...
+09:09:00  [mysql] 	Autostart active: starting...
+09:09:00  [mysql] 	Attempting to start MySQL app...
+09:09:01  [Apache] 	Status change detected: running
+09:09:01  [mysql] 	Status change detected: running
+10:44:55  [main] 	Deinitializing Modules
+10:44:55  [main] 	Deinitializing Control Panel
+
+09:18:18  [main] 	Initializing Control Panel
+09:18:18  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:18:18  [main] 	XAMPP Version: 5.6.28
+09:18:18  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:18:18  [main] 	You are not running with administrator rights! This will work for
+09:18:18  [main] 	most application stuff but whenever you do something with services
+09:18:18  [main] 	there will be a security dialogue or things will break! So think 
+09:18:18  [main] 	about running this application with administrator rights!
+09:18:18  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:18:18  [main] 	Checking for prerequisites
+09:18:28  [main] 	All prerequisites found
+09:18:28  [main] 	Initializing Modules
+09:18:28  [main] 	The FileZilla module is disabled
+09:18:28  [main] 	The Mercury module is disabled
+09:18:28  [main] 	Enabling autostart for module "Apache"
+09:18:28  [main] 	Enabling autostart for module "MySQL"
+09:18:28  [main] 	Starting Check-Timer
+09:18:28  [main] 	Control Panel Ready
+09:18:28  [Apache] 	Autostart active: starting...
+09:18:28  [Apache] 	Attempting to start Apache app...
+09:18:28  [mysql] 	Autostart active: starting...
+09:18:28  [mysql] 	Attempting to start MySQL app...
+09:18:29  [Apache] 	Status change detected: running
+09:18:29  [mysql] 	Status change detected: running
+10:28:01  [Apache] 	Status change detected: stopped
+10:28:01  [Apache] 	Error: Apache shutdown unexpectedly.
+10:28:01  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:28:01  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:28:01  [Apache] 	Press the Logs button to view error logs and check
+10:28:01  [Apache] 	the Windows Event Viewer for more clues
+10:28:01  [Apache] 	If you need more help, copy and post this
+10:28:01  [Apache] 	entire log window on the forums
+10:29:08  [Apache] 	Status change detected: running
+10:29:17  [mysql] 	Status change detected: stopped
+10:29:17  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:29:17  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:29:17  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:29:17  [mysql] 	Press the Logs button to view error logs and check
+10:29:17  [mysql] 	the Windows Event Viewer for more clues
+10:29:17  [mysql] 	If you need more help, copy and post this
+10:29:17  [mysql] 	entire log window on the forums
+10:30:41  [mysql] 	Status change detected: running
+10:40:57  [main] 	Deinitializing Modules
+10:40:57  [main] 	Deinitializing Control Panel
+
+09:41:44  [main] 	Initializing Control Panel
+09:41:44  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:41:44  [main] 	XAMPP Version: 5.6.28
+09:41:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:41:44  [main] 	You are not running with administrator rights! This will work for
+09:41:44  [main] 	most application stuff but whenever you do something with services
+09:41:44  [main] 	there will be a security dialogue or things will break! So think 
+09:41:44  [main] 	about running this application with administrator rights!
+09:41:44  [main] 	XAMPP Installation Directory: "g:\xampp\"
+09:41:44  [main] 	Checking for prerequisites
+09:41:44  [main] 	All prerequisites found
+09:41:44  [main] 	Initializing Modules
+09:41:44  [Apache] 	XAMPP Apache is already running on port 80
+09:41:44  [Apache] 	XAMPP Apache is already running on port 443
+09:41:44  [main] 	The FileZilla module is disabled
+09:41:44  [main] 	The Mercury module is disabled
+09:41:44  [main] 	Enabling autostart for module "Apache"
+09:41:44  [main] 	Enabling autostart for module "MySQL"
+09:41:44  [main] 	Starting Check-Timer
+09:41:44  [main] 	Control Panel Ready
+09:41:45  [Apache] 	Autostart aborted: Apache is already running
+09:41:45  [mysql] 	Autostart active: starting...
+09:41:45  [mysql] 	Attempting to start MySQL app...
+09:41:45  [mysql] 	Status change detected: running
+09:41:48  [mysql] 	Status change detected: stopped
+09:41:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:41:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:41:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:41:48  [mysql] 	Press the Logs button to view error logs and check
+09:41:48  [mysql] 	the Windows Event Viewer for more clues
+09:41:48  [mysql] 	If you need more help, copy and post this
+09:41:48  [mysql] 	entire log window on the forums
+09:42:24  [mysql] 	Problem detected!
+09:42:24  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:42:24  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:42:24  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:42:24  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:42:24  [mysql] 	Attempting to start MySQL app...
+09:42:25  [mysql] 	Status change detected: running
+09:42:28  [mysql] 	Status change detected: stopped
+09:42:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:42:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:42:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:42:28  [mysql] 	Press the Logs button to view error logs and check
+09:42:28  [mysql] 	the Windows Event Viewer for more clues
+09:42:28  [mysql] 	If you need more help, copy and post this
+09:42:28  [mysql] 	entire log window on the forums
+09:43:02  [main] 	Deinitializing Modules
+09:43:02  [main] 	Deinitializing Control Panel
+
+09:29:49  [main] 	Initializing Control Panel
+09:29:49  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:29:49  [main] 	XAMPP Version: 5.6.28
+09:29:49  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:29:49  [main] 	You are not running with administrator rights! This will work for
+09:29:49  [main] 	most application stuff but whenever you do something with services
+09:29:49  [main] 	there will be a security dialogue or things will break! So think 
+09:29:49  [main] 	about running this application with administrator rights!
+09:29:49  [main] 	XAMPP Installation Directory: "g:\xampp\"
+09:29:49  [main] 	Checking for prerequisites
+09:29:54  [main] 	All prerequisites found
+09:29:54  [main] 	Initializing Modules
+09:29:54  [mysql] 	Problem detected!
+09:29:54  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:29:54  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:29:54  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:29:54  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:29:54  [main] 	The FileZilla module is disabled
+09:29:54  [main] 	The Mercury module is disabled
+09:29:54  [main] 	Enabling autostart for module "Apache"
+09:29:54  [main] 	Enabling autostart for module "MySQL"
+09:29:54  [main] 	Starting Check-Timer
+09:29:54  [main] 	Control Panel Ready
+09:29:54  [Apache] 	Autostart active: starting...
+09:29:54  [Apache] 	Attempting to start Apache app...
+09:29:54  [mysql] 	Autostart active: starting...
+09:29:54  [mysql] 	Problem detected!
+09:29:54  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:29:54  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:29:54  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:29:54  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:29:54  [mysql] 	Attempting to start MySQL app...
+09:29:55  [Apache] 	Status change detected: running
+09:29:55  [mysql] 	Status change detected: running
+09:29:59  [mysql] 	Attempting to stop MySQL app...
+09:30:00  [Apache] 	Attempting to stop Apache (PID: 1248)
+09:30:00  [Apache] 	Status change detected: stopped
+09:30:00  [mysql] 	Status change detected: stopped
+09:30:01  [Apache] 	Attempting to start Apache app...
+09:30:02  [Apache] 	Status change detected: running
+09:30:02  [mysql] 	Problem detected!
+09:30:02  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:30:02  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:30:02  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:30:02  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:30:02  [mysql] 	Attempting to start MySQL app...
+09:30:02  [mysql] 	Status change detected: running
+09:30:09  [mysql] 	Status change detected: stopped
+09:30:09  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:30:09  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:30:09  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:30:09  [mysql] 	Press the Logs button to view error logs and check
+09:30:09  [mysql] 	the Windows Event Viewer for more clues
+09:30:09  [mysql] 	If you need more help, copy and post this
+09:30:09  [mysql] 	entire log window on the forums
+09:39:47  [mysql] 	Problem detected!
+09:39:47  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:39:47  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:39:47  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:39:47  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:39:47  [mysql] 	Attempting to start MySQL app...
+09:39:47  [mysql] 	Status change detected: running
+09:39:51  [mysql] 	Status change detected: stopped
+09:39:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:39:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:39:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:39:51  [mysql] 	Press the Logs button to view error logs and check
+09:39:51  [mysql] 	the Windows Event Viewer for more clues
+09:39:51  [mysql] 	If you need more help, copy and post this
+09:39:51  [mysql] 	entire log window on the forums
+09:41:20  [mysql] 	Attempting to start MySQL app...
+09:41:21  [mysql] 	Status change detected: running
+09:41:24  [mysql] 	Status change detected: stopped
+09:41:24  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:41:24  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:41:24  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:41:24  [mysql] 	Press the Logs button to view error logs and check
+09:41:24  [mysql] 	the Windows Event Viewer for more clues
+09:41:24  [mysql] 	If you need more help, copy and post this
+09:41:24  [mysql] 	entire log window on the forums
+09:41:45  [mysql] 	Status change detected: running
+09:41:48  [mysql] 	Status change detected: stopped
+09:41:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:41:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:41:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:41:48  [mysql] 	Press the Logs button to view error logs and check
+09:41:48  [mysql] 	the Windows Event Viewer for more clues
+09:41:48  [mysql] 	If you need more help, copy and post this
+09:41:48  [mysql] 	entire log window on the forums
+09:42:25  [mysql] 	Status change detected: running
+09:42:28  [mysql] 	Status change detected: stopped
+09:42:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:42:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:42:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:42:28  [mysql] 	Press the Logs button to view error logs and check
+09:42:28  [mysql] 	the Windows Event Viewer for more clues
+09:42:28  [mysql] 	If you need more help, copy and post this
+09:42:28  [mysql] 	entire log window on the forums
+09:43:04  [main] 	Deinitializing Modules
+09:43:04  [main] 	Deinitializing Control Panel
+
+09:43:07  [main] 	Initializing Control Panel
+09:43:07  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:43:07  [main] 	XAMPP Version: 5.6.28
+09:43:07  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:43:07  [main] 	You are not running with administrator rights! This will work for
+09:43:07  [main] 	most application stuff but whenever you do something with services
+09:43:07  [main] 	there will be a security dialogue or things will break! So think 
+09:43:07  [main] 	about running this application with administrator rights!
+09:43:07  [main] 	XAMPP Installation Directory: "g:\xampp\"
+09:43:07  [main] 	Checking for prerequisites
+09:43:07  [main] 	All prerequisites found
+09:43:07  [main] 	Initializing Modules
+09:43:07  [Apache] 	XAMPP Apache is already running on port 80
+09:43:07  [Apache] 	XAMPP Apache is already running on port 443
+09:43:07  [mysql] 	Problem detected!
+09:43:07  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:43:07  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:43:07  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:43:07  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:43:07  [main] 	The FileZilla module is disabled
+09:43:07  [main] 	The Mercury module is disabled
+09:43:07  [main] 	Enabling autostart for module "Apache"
+09:43:07  [main] 	Enabling autostart for module "MySQL"
+09:43:07  [main] 	Starting Check-Timer
+09:43:07  [main] 	Control Panel Ready
+09:43:08  [Apache] 	Autostart aborted: Apache is already running
+09:43:08  [mysql] 	Autostart active: starting...
+09:43:08  [mysql] 	Problem detected!
+09:43:08  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:43:08  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:43:08  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:43:08  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:43:08  [mysql] 	Attempting to start MySQL app...
+09:43:08  [mysql] 	Status change detected: running
+09:43:12  [mysql] 	Status change detected: stopped
+09:43:12  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:43:12  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:43:12  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:43:12  [mysql] 	Press the Logs button to view error logs and check
+09:43:12  [mysql] 	the Windows Event Viewer for more clues
+09:43:12  [mysql] 	If you need more help, copy and post this
+09:43:12  [mysql] 	entire log window on the forums
+09:43:15  [mysql] 	Problem detected!
+09:43:15  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:43:15  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:43:15  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:43:15  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:43:15  [mysql] 	Attempting to start MySQL app...
+09:43:16  [mysql] 	Status change detected: running
+09:43:19  [mysql] 	Status change detected: stopped
+09:43:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:43:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:43:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:43:19  [mysql] 	Press the Logs button to view error logs and check
+09:43:19  [mysql] 	the Windows Event Viewer for more clues
+09:43:19  [mysql] 	If you need more help, copy and post this
+09:43:19  [mysql] 	entire log window on the forums
+09:43:45  [mysql] 	Status change detected: running
+09:43:49  [mysql] 	Status change detected: stopped
+09:43:49  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:43:49  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:43:49  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:43:49  [mysql] 	Press the Logs button to view error logs and check
+09:43:49  [mysql] 	the Windows Event Viewer for more clues
+09:43:49  [mysql] 	If you need more help, copy and post this
+09:43:49  [mysql] 	entire log window on the forums
+09:44:14  [mysql] 	Status change detected: running
+09:44:18  [mysql] 	Status change detected: stopped
+09:44:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:44:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:44:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:44:18  [mysql] 	Press the Logs button to view error logs and check
+09:44:18  [mysql] 	the Windows Event Viewer for more clues
+09:44:18  [mysql] 	If you need more help, copy and post this
+09:44:18  [mysql] 	entire log window on the forums
+09:44:25  [main] 	Deinitializing Modules
+09:44:25  [main] 	Deinitializing Control Panel
+
+09:44:14  [main] 	Initializing Control Panel
+09:44:14  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:44:14  [main] 	XAMPP Version: 5.6.28
+09:44:14  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:44:14  [main] 	You are not running with administrator rights! This will work for
+09:44:14  [main] 	most application stuff but whenever you do something with services
+09:44:14  [main] 	there will be a security dialogue or things will break! So think 
+09:44:14  [main] 	about running this application with administrator rights!
+09:44:14  [main] 	XAMPP Installation Directory: "g:\xampp\"
+09:44:14  [main] 	Checking for prerequisites
+09:44:14  [main] 	All prerequisites found
+09:44:14  [main] 	Initializing Modules
+09:44:14  [Apache] 	XAMPP Apache is already running on port 80
+09:44:14  [Apache] 	XAMPP Apache is already running on port 443
+09:44:14  [mysql] 	Problem detected!
+09:44:14  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:44:14  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:44:14  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:44:14  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:44:14  [main] 	The FileZilla module is disabled
+09:44:14  [main] 	The Mercury module is disabled
+09:44:14  [main] 	Enabling autostart for module "Apache"
+09:44:14  [main] 	Enabling autostart for module "MySQL"
+09:44:14  [main] 	Starting Check-Timer
+09:44:14  [main] 	Control Panel Ready
+09:44:14  [Apache] 	Autostart aborted: Apache is already running
+09:44:14  [mysql] 	Autostart active: starting...
+09:44:14  [mysql] 	Problem detected!
+09:44:14  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:44:14  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:44:14  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:44:14  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:44:14  [mysql] 	Attempting to start MySQL app...
+09:44:15  [mysql] 	Status change detected: running
+09:44:18  [mysql] 	Status change detected: stopped
+09:44:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:44:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:44:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:44:18  [mysql] 	Press the Logs button to view error logs and check
+09:44:18  [mysql] 	the Windows Event Viewer for more clues
+09:44:18  [mysql] 	If you need more help, copy and post this
+09:44:18  [mysql] 	entire log window on the forums
+09:44:27  [main] 	Deinitializing Modules
+09:44:27  [main] 	Deinitializing Control Panel
+
+09:43:44  [main] 	Initializing Control Panel
+09:43:44  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:43:44  [main] 	XAMPP Version: 5.6.28
+09:43:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:43:44  [main] 	You are not running with administrator rights! This will work for
+09:43:44  [main] 	most application stuff but whenever you do something with services
+09:43:44  [main] 	there will be a security dialogue or things will break! So think 
+09:43:44  [main] 	about running this application with administrator rights!
+09:43:44  [main] 	XAMPP Installation Directory: "g:\xampp\"
+09:43:44  [main] 	Checking for prerequisites
+09:43:44  [main] 	All prerequisites found
+09:43:44  [main] 	Initializing Modules
+09:43:44  [Apache] 	XAMPP Apache is already running on port 80
+09:43:44  [Apache] 	XAMPP Apache is already running on port 443
+09:43:44  [mysql] 	Problem detected!
+09:43:44  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:43:44  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:43:44  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:43:44  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:43:44  [main] 	The FileZilla module is disabled
+09:43:44  [main] 	The Mercury module is disabled
+09:43:44  [main] 	Enabling autostart for module "Apache"
+09:43:44  [main] 	Enabling autostart for module "MySQL"
+09:43:44  [main] 	Starting Check-Timer
+09:43:44  [main] 	Control Panel Ready
+09:43:45  [Apache] 	Autostart aborted: Apache is already running
+09:43:45  [mysql] 	Autostart active: starting...
+09:43:45  [mysql] 	Problem detected!
+09:43:45  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+09:43:45  [mysql] 	MySQL WILL NOT start without the configured ports free!
+09:43:45  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+09:43:45  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+09:43:45  [mysql] 	Attempting to start MySQL app...
+09:43:45  [mysql] 	Status change detected: running
+09:43:49  [mysql] 	Status change detected: stopped
+09:43:49  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:43:49  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:43:49  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:43:49  [mysql] 	Press the Logs button to view error logs and check
+09:43:49  [mysql] 	the Windows Event Viewer for more clues
+09:43:49  [mysql] 	If you need more help, copy and post this
+09:43:49  [mysql] 	entire log window on the forums
+09:44:15  [mysql] 	Status change detected: running
+09:44:18  [mysql] 	Status change detected: stopped
+09:44:18  [mysql] 	Error: MySQL shutdown unexpectedly.
+09:44:18  [mysql] 	This may be due to a blocked port, missing dependencies, 
+09:44:18  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+09:44:18  [mysql] 	Press the Logs button to view error logs and check
+09:44:18  [mysql] 	the Windows Event Viewer for more clues
+09:44:18  [mysql] 	If you need more help, copy and post this
+09:44:18  [mysql] 	entire log window on the forums
+09:44:39  [main] 	Deinitializing Modules
+09:44:39  [main] 	Deinitializing Control Panel
+
+09:14:54  [main] 	Initializing Control Panel
+09:14:54  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+09:14:54  [main] 	XAMPP Version: 5.6.28
+09:14:54  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+09:14:54  [main] 	You are not running with administrator rights! This will work for
+09:14:54  [main] 	most application stuff but whenever you do something with services
+09:14:54  [main] 	there will be a security dialogue or things will break! So think 
+09:14:54  [main] 	about running this application with administrator rights!
+09:14:54  [main] 	XAMPP Installation Directory: "e:\xampp\"
+09:14:54  [main] 	Checking for prerequisites
+09:15:14  [main] 	All prerequisites found
+09:15:14  [main] 	Initializing Modules
+09:15:14  [main] 	The FileZilla module is disabled
+09:15:14  [main] 	The Mercury module is disabled
+09:15:14  [main] 	Enabling autostart for module "Apache"
+09:15:14  [main] 	Enabling autostart for module "MySQL"
+09:15:14  [main] 	Starting Check-Timer
+09:15:14  [main] 	Control Panel Ready
+09:15:14  [Apache] 	Autostart active: starting...
+09:15:14  [Apache] 	Attempting to start Apache app...
+09:15:15  [mysql] 	Autostart active: starting...
+09:15:15  [mysql] 	Attempting to start MySQL app...
+09:15:15  [Apache] 	Status change detected: running
+09:15:15  [mysql] 	Status change detected: running
+11:56:47  [main] 	Deinitializing Modules
+11:56:47  [main] 	Deinitializing Control Panel
+
+14:34:21  [main] 	Initializing Control Panel
+14:34:21  [main] 	Windows Version:  Enterprise  64-bit
+14:34:21  [main] 	XAMPP Version: 5.6.28
+14:34:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:34:21  [main] 	You are not running with administrator rights! This will work for
+14:34:21  [main] 	most application stuff but whenever you do something with services
+14:34:21  [main] 	there will be a security dialogue or things will break! So think 
+14:34:21  [main] 	about running this application with administrator rights!
+14:34:21  [main] 	XAMPP Installation Directory: "d:\xampp\"
+14:34:21  [main] 	Checking for prerequisites
+14:34:22  [main] 	All prerequisites found
+14:34:22  [main] 	Initializing Modules
+14:34:22  [main] 	The FileZilla module is disabled
+14:34:22  [main] 	The Mercury module is disabled
+14:34:22  [main] 	Enabling autostart for module "Apache"
+14:34:22  [main] 	Enabling autostart for module "MySQL"
+14:34:22  [main] 	Starting Check-Timer
+14:34:22  [main] 	Control Panel Ready
+14:34:22  [Apache] 	Autostart active: starting...
+14:34:22  [Apache] 	Attempting to start Apache app...
+14:34:22  [mysql] 	Autostart active: starting...
+14:34:22  [mysql] 	Attempting to start MySQL app...
+14:34:23  [Apache] 	Status change detected: running
+14:34:23  [mysql] 	Status change detected: running
+15:50:39  [main] 	Deinitializing Modules
+15:50:39  [main] 	Deinitializing Control Panel
+
+18:25:27  [main] 	Initializing Control Panel
+18:25:27  [main] 	Windows Version:  Home  64-bit
+18:25:27  [main] 	XAMPP Version: 5.6.28
+18:25:27  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:25:27  [main] 	You are not running with administrator rights! This will work for
+18:25:27  [main] 	most application stuff but whenever you do something with services
+18:25:27  [main] 	there will be a security dialogue or things will break! So think 
+18:25:27  [main] 	about running this application with administrator rights!
+18:25:27  [main] 	XAMPP Installation Directory: "i:\xampp\"
+18:25:27  [main] 	Checking for prerequisites
+18:25:27  [main] 	All prerequisites found
+18:25:27  [main] 	Initializing Modules
+18:25:27  [Apache] 	Problem detected!
+18:25:27  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:25:27  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:25:27  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:27  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:25:27  [Apache] 	Problem detected!
+18:25:27  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:25:27  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:25:27  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:27  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:25:27  [mysql] 	Problem detected!
+18:25:27  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:25:27  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:25:27  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:27  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:25:27  [main] 	The FileZilla module is disabled
+18:25:27  [main] 	The Mercury module is disabled
+18:25:27  [main] 	Enabling autostart for module "Apache"
+18:25:27  [main] 	Enabling autostart for module "MySQL"
+18:25:27  [main] 	Starting Check-Timer
+18:25:27  [main] 	Control Panel Ready
+18:25:27  [Apache] 	Autostart active: starting...
+18:25:27  [Apache] 	Problem detected!
+18:25:27  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:25:27  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:25:27  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:27  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:25:27  [Apache] 	Problem detected!
+18:25:27  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:25:27  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:25:27  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:27  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:25:27  [Apache] 	Attempting to start Apache app...
+18:25:27  [mysql] 	Autostart active: starting...
+18:25:27  [mysql] 	Problem detected!
+18:25:27  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:25:27  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:25:28  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:25:28  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:25:28  [mysql] 	Attempting to start MySQL app...
+18:25:28  [Apache] 	Status change detected: running
+18:25:28  [mysql] 	Status change detected: running
+18:25:29  [Apache] 	Status change detected: stopped
+18:25:29  [Apache] 	Error: Apache shutdown unexpectedly.
+18:25:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:25:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:25:29  [Apache] 	Press the Logs button to view error logs and check
+18:25:29  [Apache] 	the Windows Event Viewer for more clues
+18:25:29  [Apache] 	If you need more help, copy and post this
+18:25:29  [Apache] 	entire log window on the forums
+18:25:31  [mysql] 	Status change detected: stopped
+18:25:31  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:25:31  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:25:31  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:25:31  [mysql] 	Press the Logs button to view error logs and check
+18:25:31  [mysql] 	the Windows Event Viewer for more clues
+18:25:31  [mysql] 	If you need more help, copy and post this
+18:25:31  [mysql] 	entire log window on the forums
+18:26:34  [main] 	Deinitializing Modules
+18:26:34  [main] 	Deinitializing Control Panel
+
+18:23:52  [main] 	Initializing Control Panel
+18:23:52  [main] 	Windows Version:  Home  64-bit
+18:23:52  [main] 	XAMPP Version: 5.6.28
+18:23:52  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:23:52  [main] 	You are not running with administrator rights! This will work for
+18:23:52  [main] 	most application stuff but whenever you do something with services
+18:23:52  [main] 	there will be a security dialogue or things will break! So think 
+18:23:52  [main] 	about running this application with administrator rights!
+18:23:52  [main] 	XAMPP Installation Directory: "i:\xampp\"
+18:23:52  [main] 	Checking for prerequisites
+18:23:52  [main] 	All prerequisites found
+18:23:52  [main] 	Initializing Modules
+18:23:52  [Apache] 	Problem detected!
+18:23:52  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:23:52  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:23:52  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:52  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:23:52  [Apache] 	Problem detected!
+18:23:52  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:23:52  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:23:52  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:52  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:23:52  [mysql] 	Problem detected!
+18:23:52  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:23:52  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:23:52  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:52  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:23:52  [main] 	The FileZilla module is disabled
+18:23:52  [main] 	The Mercury module is disabled
+18:23:52  [main] 	Enabling autostart for module "Apache"
+18:23:52  [main] 	Enabling autostart for module "MySQL"
+18:23:52  [main] 	Starting Check-Timer
+18:23:52  [main] 	Control Panel Ready
+18:23:53  [Apache] 	Autostart active: starting...
+18:23:53  [Apache] 	Problem detected!
+18:23:53  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:23:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:23:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:23:53  [Apache] 	Problem detected!
+18:23:53  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:23:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:23:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:23:53  [Apache] 	Attempting to start Apache app...
+18:23:53  [mysql] 	Autostart active: starting...
+18:23:53  [mysql] 	Problem detected!
+18:23:53  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:23:53  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:23:53  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:23:53  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:23:53  [mysql] 	Attempting to start MySQL app...
+18:23:53  [Apache] 	Status change detected: running
+18:23:53  [mysql] 	Status change detected: running
+18:23:55  [Apache] 	Status change detected: stopped
+18:23:55  [Apache] 	Error: Apache shutdown unexpectedly.
+18:23:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:23:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:23:55  [Apache] 	Press the Logs button to view error logs and check
+18:23:55  [Apache] 	the Windows Event Viewer for more clues
+18:23:55  [Apache] 	If you need more help, copy and post this
+18:23:55  [Apache] 	entire log window on the forums
+18:23:57  [mysql] 	Status change detected: stopped
+18:23:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:23:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:23:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:23:57  [mysql] 	Press the Logs button to view error logs and check
+18:23:57  [mysql] 	the Windows Event Viewer for more clues
+18:23:57  [mysql] 	If you need more help, copy and post this
+18:23:57  [mysql] 	entire log window on the forums
+18:25:28  [Apache] 	Status change detected: running
+18:25:28  [mysql] 	Status change detected: running
+18:25:29  [Apache] 	Status change detected: stopped
+18:25:29  [Apache] 	Error: Apache shutdown unexpectedly.
+18:25:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:25:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:25:29  [Apache] 	Press the Logs button to view error logs and check
+18:25:29  [Apache] 	the Windows Event Viewer for more clues
+18:25:29  [Apache] 	If you need more help, copy and post this
+18:25:29  [Apache] 	entire log window on the forums
+18:25:31  [mysql] 	Status change detected: stopped
+18:25:31  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:25:31  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:25:31  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:25:31  [mysql] 	Press the Logs button to view error logs and check
+18:25:31  [mysql] 	the Windows Event Viewer for more clues
+18:25:31  [mysql] 	If you need more help, copy and post this
+18:25:31  [mysql] 	entire log window on the forums
+18:26:43  [Apache] 	Problem detected!
+18:26:43  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:26:43  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:26:43  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:26:43  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:26:43  [Apache] 	Problem detected!
+18:26:43  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:26:43  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:26:43  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:26:43  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:26:43  [Apache] 	Attempting to start Apache app...
+18:26:43  [Apache] 	Status change detected: running
+18:26:45  [Apache] 	Status change detected: stopped
+18:26:45  [Apache] 	Error: Apache shutdown unexpectedly.
+18:26:45  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:26:45  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:26:45  [Apache] 	Press the Logs button to view error logs and check
+18:26:45  [Apache] 	the Windows Event Viewer for more clues
+18:26:45  [Apache] 	If you need more help, copy and post this
+18:26:45  [Apache] 	entire log window on the forums
+18:26:48  [mysql] 	Problem detected!
+18:26:48  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:26:48  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:26:48  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:26:48  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:26:48  [mysql] 	Attempting to start MySQL app...
+18:26:49  [mysql] 	Status change detected: running
+18:26:52  [mysql] 	Status change detected: stopped
+18:26:52  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:26:52  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:26:52  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:26:52  [mysql] 	Press the Logs button to view error logs and check
+18:26:52  [mysql] 	the Windows Event Viewer for more clues
+18:26:52  [mysql] 	If you need more help, copy and post this
+18:26:52  [mysql] 	entire log window on the forums
+18:27:01  [main] 	Deinitializing Modules
+18:27:01  [main] 	Deinitializing Control Panel
+
+18:27:34  [main] 	Initializing Control Panel
+18:27:34  [main] 	Windows Version:  Home  64-bit
+18:27:34  [main] 	XAMPP Version: 5.6.28
+18:27:34  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:27:34  [main] 	You are not running with administrator rights! This will work for
+18:27:34  [main] 	most application stuff but whenever you do something with services
+18:27:34  [main] 	there will be a security dialogue or things will break! So think 
+18:27:34  [main] 	about running this application with administrator rights!
+18:27:34  [main] 	XAMPP Installation Directory: "i:\xampp\"
+18:27:34  [main] 	Checking for prerequisites
+18:27:34  [main] 	All prerequisites found
+18:27:34  [main] 	Initializing Modules
+18:27:34  [Apache] 	Problem detected!
+18:27:34  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:27:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:27:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:27:34  [Apache] 	Problem detected!
+18:27:34  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:27:34  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:27:34  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:34  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:27:34  [mysql] 	Problem detected!
+18:27:34  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:27:34  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:27:34  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:34  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:27:34  [main] 	The FileZilla module is disabled
+18:27:34  [main] 	The Mercury module is disabled
+18:27:34  [main] 	Enabling autostart for module "Apache"
+18:27:34  [main] 	Enabling autostart for module "MySQL"
+18:27:34  [main] 	Starting Check-Timer
+18:27:34  [main] 	Control Panel Ready
+18:27:35  [Apache] 	Autostart active: starting...
+18:27:35  [Apache] 	Problem detected!
+18:27:35  [Apache] 	Port 80 in use by "Unable to get info" with PID 11992!
+18:27:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:27:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:27:35  [Apache] 	Problem detected!
+18:27:35  [Apache] 	Port 443 in use by "Unable to get info" with PID 11992!
+18:27:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+18:27:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+18:27:35  [Apache] 	Attempting to start Apache app...
+18:27:35  [mysql] 	Autostart active: starting...
+18:27:35  [mysql] 	Problem detected!
+18:27:35  [mysql] 	Port 3306 in use by "Unable to get info"!
+18:27:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+18:27:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+18:27:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+18:27:35  [mysql] 	Attempting to start MySQL app...
+18:27:36  [Apache] 	Status change detected: running
+18:27:36  [mysql] 	Status change detected: running
+18:27:37  [Apache] 	Status change detected: stopped
+18:27:37  [Apache] 	Error: Apache shutdown unexpectedly.
+18:27:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+18:27:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+18:27:37  [Apache] 	Press the Logs button to view error logs and check
+18:27:37  [Apache] 	the Windows Event Viewer for more clues
+18:27:37  [Apache] 	If you need more help, copy and post this
+18:27:37  [Apache] 	entire log window on the forums
+18:27:39  [mysql] 	Status change detected: stopped
+18:27:39  [mysql] 	Error: MySQL shutdown unexpectedly.
+18:27:39  [mysql] 	This may be due to a blocked port, missing dependencies, 
+18:27:39  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+18:27:39  [mysql] 	Press the Logs button to view error logs and check
+18:27:39  [mysql] 	the Windows Event Viewer for more clues
+18:27:39  [mysql] 	If you need more help, copy and post this
+18:27:39  [mysql] 	entire log window on the forums
+18:29:12  [main] 	Deinitializing Modules
+18:29:12  [main] 	Deinitializing Control Panel
+
+08:50:22  [main] 	Initializing Control Panel
+08:50:22  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+08:50:22  [main] 	XAMPP Version: 5.6.28
+08:50:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+08:50:22  [main] 	You are not running with administrator rights! This will work for
+08:50:22  [main] 	most application stuff but whenever you do something with services
+08:50:22  [main] 	there will be a security dialogue or things will break! So think 
+08:50:22  [main] 	about running this application with administrator rights!
+08:50:22  [main] 	XAMPP Installation Directory: "e:\xampp\"
+08:50:22  [main] 	Checking for prerequisites
+08:50:52  [main] 	All prerequisites found
+08:50:52  [main] 	Initializing Modules
+08:50:52  [main] 	The FileZilla module is disabled
+08:50:52  [main] 	The Mercury module is disabled
+08:50:53  [main] 	Enabling autostart for module "Apache"
+08:50:53  [main] 	Enabling autostart for module "MySQL"
+08:50:53  [main] 	Starting Check-Timer
+08:50:53  [main] 	Control Panel Ready
+08:50:54  [Apache] 	Autostart active: starting...
+08:50:54  [Apache] 	Attempting to start Apache app...
+08:50:54  [mysql] 	Autostart active: starting...
+08:50:54  [mysql] 	Attempting to start MySQL app...
+08:50:55  [Apache] 	Status change detected: running
+08:50:55  [mysql] 	Status change detected: running
+08:51:24  [main] 	Deinitializing Modules
+08:51:24  [main] 	Deinitializing Control Panel
+
+08:48:48  [main] 	Initializing Control Panel
+08:48:48  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+08:48:48  [main] 	XAMPP Version: 5.6.28
+08:48:48  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+08:48:48  [main] 	You are not running with administrator rights! This will work for
+08:48:48  [main] 	most application stuff but whenever you do something with services
+08:48:48  [main] 	there will be a security dialogue or things will break! So think 
+08:48:48  [main] 	about running this application with administrator rights!
+08:48:48  [main] 	XAMPP Installation Directory: "e:\xampp\"
+08:48:48  [main] 	Checking for prerequisites
+08:50:52  [main] 	All prerequisites found
+08:50:52  [main] 	Initializing Modules
+08:50:52  [main] 	The FileZilla module is disabled
+08:50:52  [main] 	The Mercury module is disabled
+08:50:53  [main] 	Enabling autostart for module "Apache"
+08:50:53  [main] 	Enabling autostart for module "MySQL"
+08:50:53  [main] 	Starting Check-Timer
+08:50:53  [main] 	Control Panel Ready
+08:50:54  [Apache] 	Autostart active: starting...
+08:50:54  [Apache] 	Attempting to start Apache app...
+08:50:54  [mysql] 	Autostart active: starting...
+08:50:54  [mysql] 	Attempting to start MySQL app...
+08:50:55  [Apache] 	Status change detected: running
+08:50:55  [mysql] 	Status change detected: running
+08:51:57  [main] 	Deinitializing Modules
+08:51:57  [main] 	Deinitializing Control Panel
+
+14:29:23  [main] 	Initializing Control Panel
+14:29:23  [main] 	Windows Version: Windows 8.1 Pro  64-bit
+14:29:23  [main] 	XAMPP Version: 5.6.28
+14:29:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:29:23  [main] 	You are not running with administrator rights! This will work for
+14:29:23  [main] 	most application stuff but whenever you do something with services
+14:29:23  [main] 	there will be a security dialogue or things will break! So think 
+14:29:23  [main] 	about running this application with administrator rights!
+14:29:23  [main] 	XAMPP Installation Directory: "d:\xampp\"
+14:29:23  [main] 	Checking for prerequisites
+14:29:26  [main] 	All prerequisites found
+14:29:26  [main] 	Initializing Modules
+14:29:26  [main] 	The FileZilla module is disabled
+14:29:26  [main] 	The Mercury module is disabled
+14:29:26  [main] 	Enabling autostart for module "Apache"
+14:29:26  [main] 	Enabling autostart for module "MySQL"
+14:29:26  [main] 	Starting Check-Timer
+14:29:26  [main] 	Control Panel Ready
+14:29:26  [Apache] 	Autostart active: starting...
+14:29:26  [Apache] 	Attempting to start Apache app...
+14:29:27  [mysql] 	Autostart active: starting...
+14:29:27  [mysql] 	Attempting to start MySQL app...
+14:29:28  [Apache] 	Status change detected: running
+14:29:28  [mysql] 	Status change detected: running
+15:40:13  [main] 	Deinitializing Modules
+15:40:13  [main] 	Deinitializing Control Panel
+
+17:53:24  [main] 	Initializing Control Panel
+17:53:24  [main] 	Windows Version:  Home  64-bit
+17:53:24  [main] 	XAMPP Version: 5.6.28
+17:53:24  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+17:53:24  [main] 	You are not running with administrator rights! This will work for
+17:53:24  [main] 	most application stuff but whenever you do something with services
+17:53:24  [main] 	there will be a security dialogue or things will break! So think 
+17:53:24  [main] 	about running this application with administrator rights!
+17:53:24  [main] 	XAMPP Installation Directory: "f:\xampp\"
+17:53:24  [main] 	Checking for prerequisites
+17:53:34  [main] 	All prerequisites found
+17:53:34  [main] 	Initializing Modules
+17:53:35  [Apache] 	Problem detected!
+17:53:35  [Apache] 	Port 80 in use by "Unable to get info" with PID 6728!
+17:53:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:35  [Apache] 	Problem detected!
+17:53:35  [Apache] 	Port 443 in use by "Unable to get info" with PID 6728!
+17:53:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:35  [mysql] 	Problem detected!
+17:53:35  [mysql] 	Port 3306 in use by "Unable to get info"!
+17:53:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+17:53:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+17:53:35  [main] 	The FileZilla module is disabled
+17:53:35  [main] 	The Mercury module is disabled
+17:53:35  [main] 	Enabling autostart for module "Apache"
+17:53:35  [main] 	Enabling autostart for module "MySQL"
+17:53:35  [main] 	Starting Check-Timer
+17:53:35  [main] 	Control Panel Ready
+17:53:35  [Apache] 	Autostart aborted: Apache is already running
+17:53:35  [mysql] 	Autostart active: starting...
+17:53:35  [mysql] 	Problem detected!
+17:53:35  [mysql] 	Port 3306 in use by "Unable to get info"!
+17:53:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+17:53:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+17:53:35  [mysql] 	Attempting to start MySQL app...
+17:53:36  [mysql] 	Status change detected: running
+17:53:37  [Apache] 	Status change detected: stopped
+17:53:37  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:37  [Apache] 	Press the Logs button to view error logs and check
+17:53:37  [Apache] 	the Windows Event Viewer for more clues
+17:53:37  [Apache] 	If you need more help, copy and post this
+17:53:37  [Apache] 	entire log window on the forums
+17:53:38  [mysql] 	Status change detected: stopped
+17:53:38  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:53:38  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:53:38  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:53:38  [mysql] 	Press the Logs button to view error logs and check
+17:53:38  [mysql] 	the Windows Event Viewer for more clues
+17:53:38  [mysql] 	If you need more help, copy and post this
+17:53:38  [mysql] 	entire log window on the forums
+17:53:40  [mysql] 	Status change detected: running
+17:53:41  [Apache] 	Status change detected: running
+17:53:42  [Apache] 	Status change detected: stopped
+17:53:42  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:42  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:42  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:42  [Apache] 	Press the Logs button to view error logs and check
+17:53:42  [Apache] 	the Windows Event Viewer for more clues
+17:53:42  [Apache] 	If you need more help, copy and post this
+17:53:42  [Apache] 	entire log window on the forums
+17:53:44  [mysql] 	Status change detected: stopped
+17:53:44  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:53:44  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:53:44  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:53:44  [mysql] 	Press the Logs button to view error logs and check
+17:53:44  [mysql] 	the Windows Event Viewer for more clues
+17:53:44  [mysql] 	If you need more help, copy and post this
+17:53:44  [mysql] 	entire log window on the forums
+17:53:56  [Apache] 	Status change detected: running
+17:53:57  [mysql] 	Status change detected: running
+17:53:58  [Apache] 	Status change detected: stopped
+17:53:58  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:58  [Apache] 	Press the Logs button to view error logs and check
+17:53:58  [Apache] 	the Windows Event Viewer for more clues
+17:53:58  [Apache] 	If you need more help, copy and post this
+17:53:58  [Apache] 	entire log window on the forums
+17:54:01  [mysql] 	Status change detected: stopped
+17:54:01  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:01  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:01  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:01  [mysql] 	Press the Logs button to view error logs and check
+17:54:01  [mysql] 	the Windows Event Viewer for more clues
+17:54:01  [mysql] 	If you need more help, copy and post this
+17:54:01  [mysql] 	entire log window on the forums
+17:54:06  [Apache] 	Problem detected!
+17:54:06  [Apache] 	Port 80 in use by "Unable to get info" with PID 6728!
+17:54:06  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:54:06  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:54:06  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:54:06  [Apache] 	Problem detected!
+17:54:06  [Apache] 	Port 443 in use by "Unable to get info" with PID 6728!
+17:54:06  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:54:06  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:54:06  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:54:06  [Apache] 	Attempting to start Apache app...
+17:54:06  [Apache] 	Status change detected: running
+17:54:07  [mysql] 	Problem detected!
+17:54:07  [mysql] 	Port 3306 in use by "Unable to get info"!
+17:54:07  [mysql] 	MySQL WILL NOT start without the configured ports free!
+17:54:07  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+17:54:07  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+17:54:07  [mysql] 	Attempting to start MySQL app...
+17:54:07  [mysql] 	Status change detected: running
+17:54:08  [Apache] 	Status change detected: stopped
+17:54:08  [Apache] 	Error: Apache shutdown unexpectedly.
+17:54:08  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:54:08  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:54:08  [Apache] 	Press the Logs button to view error logs and check
+17:54:08  [Apache] 	the Windows Event Viewer for more clues
+17:54:08  [Apache] 	If you need more help, copy and post this
+17:54:08  [Apache] 	entire log window on the forums
+17:54:11  [mysql] 	Status change detected: stopped
+17:54:11  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:11  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:11  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:11  [mysql] 	Press the Logs button to view error logs and check
+17:54:11  [mysql] 	the Windows Event Viewer for more clues
+17:54:11  [mysql] 	If you need more help, copy and post this
+17:54:11  [mysql] 	entire log window on the forums
+17:54:16  [Apache] 	Status change detected: running
+17:54:16  [mysql] 	Status change detected: running
+17:54:18  [Apache] 	Status change detected: stopped
+17:54:18  [Apache] 	Error: Apache shutdown unexpectedly.
+17:54:18  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:54:18  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:54:18  [Apache] 	Press the Logs button to view error logs and check
+17:54:18  [Apache] 	the Windows Event Viewer for more clues
+17:54:18  [Apache] 	If you need more help, copy and post this
+17:54:18  [Apache] 	entire log window on the forums
+17:54:19  [mysql] 	Status change detected: stopped
+17:54:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:19  [mysql] 	Press the Logs button to view error logs and check
+17:54:19  [mysql] 	the Windows Event Viewer for more clues
+17:54:19  [mysql] 	If you need more help, copy and post this
+17:54:19  [mysql] 	entire log window on the forums
+17:54:55  [main] 	Deinitializing Modules
+17:54:55  [main] 	Deinitializing Control Panel
+
+18:35:39  [main] 	Initializing Control Panel
+18:35:39  [main] 	Windows Version:  Home  64-bit
+18:35:39  [main] 	XAMPP Version: 5.6.28
+18:35:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+18:35:39  [main] 	You are not running with administrator rights! This will work for
+18:35:39  [main] 	most application stuff but whenever you do something with services
+18:35:39  [main] 	there will be a security dialogue or things will break! So think 
+18:35:39  [main] 	about running this application with administrator rights!
+18:35:39  [main] 	XAMPP Installation Directory: "f:\xampp\"
+18:35:39  [main] 	Checking for prerequisites
+18:36:28  [main] 	All prerequisites found
+18:36:28  [main] 	Initializing Modules
+18:36:28  [main] 	The FileZilla module is disabled
+18:36:28  [main] 	The Mercury module is disabled
+18:36:28  [main] 	Enabling autostart for module "Apache"
+18:36:28  [main] 	Enabling autostart for module "MySQL"
+18:36:28  [main] 	Starting Check-Timer
+18:36:28  [main] 	Control Panel Ready
+18:36:29  [Apache] 	Autostart active: starting...
+18:36:29  [Apache] 	Attempting to start Apache app...
+18:36:29  [mysql] 	Autostart active: starting...
+18:36:29  [mysql] 	Attempting to start MySQL app...
+18:36:31  [Apache] 	Status change detected: running
+18:36:31  [mysql] 	Status change detected: running
+07:23:25  [Apache] 	Status change detected: stopped
+07:23:25  [Apache] 	Error: Apache shutdown unexpectedly.
+07:23:25  [Apache] 	This may be due to a blocked port, missing dependencies, 
+07:23:25  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+07:23:25  [Apache] 	Press the Logs button to view error logs and check
+07:23:25  [Apache] 	the Windows Event Viewer for more clues
+07:23:25  [Apache] 	If you need more help, copy and post this
+07:23:25  [Apache] 	entire log window on the forums
+07:23:25  [mysql] 	Status change detected: stopped
+07:23:25  [mysql] 	Error: MySQL shutdown unexpectedly.
+07:23:25  [mysql] 	This may be due to a blocked port, missing dependencies, 
+07:23:25  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+07:23:25  [mysql] 	Press the Logs button to view error logs and check
+07:23:25  [mysql] 	the Windows Event Viewer for more clues
+07:23:25  [mysql] 	If you need more help, copy and post this
+07:23:25  [mysql] 	entire log window on the forums
+17:53:01  [mysql] 	Status change detected: running
+17:53:08  [mysql] 	Status change detected: stopped
+17:53:08  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:53:08  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:53:08  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:53:08  [mysql] 	Press the Logs button to view error logs and check
+17:53:08  [mysql] 	the Windows Event Viewer for more clues
+17:53:08  [mysql] 	If you need more help, copy and post this
+17:53:08  [mysql] 	entire log window on the forums
+17:53:35  [Apache] 	Problem detected!
+17:53:35  [Apache] 	Port 80 in use by "Unable to get info" with PID 6728!
+17:53:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:35  [Apache] 	Problem detected!
+17:53:35  [Apache] 	Port 443 in use by "Unable to get info" with PID 6728!
+17:53:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:35  [Apache] 	Attempting to start Apache app...
+17:53:35  [Apache] 	Status change detected: running
+17:53:35  [mysql] 	Status change detected: running
+17:53:36  [mysql] 	Attempting to stop MySQL app...
+17:53:37  [Apache] 	Status change detected: stopped
+17:53:37  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:37  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:37  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:37  [Apache] 	Press the Logs button to view error logs and check
+17:53:37  [Apache] 	the Windows Event Viewer for more clues
+17:53:37  [Apache] 	If you need more help, copy and post this
+17:53:37  [Apache] 	entire log window on the forums
+17:53:38  [mysql] 	Status change detected: stopped
+17:53:39  [mysql] 	Problem detected!
+17:53:39  [mysql] 	Port 3306 in use by "Unable to get info"!
+17:53:39  [mysql] 	MySQL WILL NOT start without the configured ports free!
+17:53:39  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:39  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+17:53:39  [mysql] 	Attempting to start MySQL app...
+17:53:39  [mysql] 	Status change detected: running
+17:53:40  [Apache] 	Problem detected!
+17:53:40  [Apache] 	Port 80 in use by "Unable to get info" with PID 6728!
+17:53:40  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:40  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:40  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:40  [Apache] 	Problem detected!
+17:53:40  [Apache] 	Port 443 in use by "Unable to get info" with PID 6728!
+17:53:40  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:40  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:40  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:40  [Apache] 	Attempting to start Apache app...
+17:53:40  [Apache] 	Status change detected: running
+17:53:42  [Apache] 	Status change detected: stopped
+17:53:42  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:42  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:42  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:42  [Apache] 	Press the Logs button to view error logs and check
+17:53:42  [Apache] 	the Windows Event Viewer for more clues
+17:53:42  [Apache] 	If you need more help, copy and post this
+17:53:42  [Apache] 	entire log window on the forums
+17:53:44  [mysql] 	Status change detected: stopped
+17:53:44  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:53:44  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:53:44  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:53:44  [mysql] 	Press the Logs button to view error logs and check
+17:53:44  [mysql] 	the Windows Event Viewer for more clues
+17:53:44  [mysql] 	If you need more help, copy and post this
+17:53:44  [mysql] 	entire log window on the forums
+17:53:56  [Apache] 	Problem detected!
+17:53:56  [Apache] 	Port 80 in use by "Unable to get info" with PID 6728!
+17:53:56  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:56  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:56  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:56  [Apache] 	Problem detected!
+17:53:56  [Apache] 	Port 443 in use by "Unable to get info" with PID 6728!
+17:53:56  [Apache] 	Apache WILL NOT start without the configured ports free!
+17:53:56  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:56  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+17:53:56  [Apache] 	Attempting to start Apache app...
+17:53:56  [Apache] 	Status change detected: running
+17:53:57  [mysql] 	Problem detected!
+17:53:57  [mysql] 	Port 3306 in use by "Unable to get info"!
+17:53:57  [mysql] 	MySQL WILL NOT start without the configured ports free!
+17:53:57  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+17:53:57  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+17:53:57  [mysql] 	Attempting to start MySQL app...
+17:53:57  [mysql] 	Status change detected: running
+17:53:58  [Apache] 	Status change detected: stopped
+17:53:58  [Apache] 	Error: Apache shutdown unexpectedly.
+17:53:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:53:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:53:58  [Apache] 	Press the Logs button to view error logs and check
+17:53:58  [Apache] 	the Windows Event Viewer for more clues
+17:53:58  [Apache] 	If you need more help, copy and post this
+17:53:58  [Apache] 	entire log window on the forums
+17:54:00  [mysql] 	Status change detected: stopped
+17:54:00  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:00  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:00  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:00  [mysql] 	Press the Logs button to view error logs and check
+17:54:00  [mysql] 	the Windows Event Viewer for more clues
+17:54:00  [mysql] 	If you need more help, copy and post this
+17:54:00  [mysql] 	entire log window on the forums
+17:54:06  [Apache] 	Status change detected: running
+17:54:07  [Apache] 	Status change detected: stopped
+17:54:07  [Apache] 	Error: Apache shutdown unexpectedly.
+17:54:07  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:54:07  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:54:07  [Apache] 	Press the Logs button to view error logs and check
+17:54:07  [Apache] 	the Windows Event Viewer for more clues
+17:54:07  [Apache] 	If you need more help, copy and post this
+17:54:07  [Apache] 	entire log window on the forums
+17:54:07  [mysql] 	Status change detected: running
+17:54:10  [mysql] 	Status change detected: stopped
+17:54:10  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:10  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:10  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:10  [mysql] 	Press the Logs button to view error logs and check
+17:54:10  [mysql] 	the Windows Event Viewer for more clues
+17:54:10  [mysql] 	If you need more help, copy and post this
+17:54:10  [mysql] 	entire log window on the forums
+17:54:16  [Apache] 	Status change detected: running
+17:54:16  [mysql] 	Status change detected: running
+17:54:17  [Apache] 	Status change detected: stopped
+17:54:17  [Apache] 	Error: Apache shutdown unexpectedly.
+17:54:17  [Apache] 	This may be due to a blocked port, missing dependencies, 
+17:54:17  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+17:54:17  [Apache] 	Press the Logs button to view error logs and check
+17:54:17  [Apache] 	the Windows Event Viewer for more clues
+17:54:17  [Apache] 	If you need more help, copy and post this
+17:54:17  [Apache] 	entire log window on the forums
+17:54:19  [mysql] 	Status change detected: stopped
+17:54:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+17:54:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+17:54:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+17:54:19  [mysql] 	Press the Logs button to view error logs and check
+17:54:19  [mysql] 	the Windows Event Viewer for more clues
+17:54:19  [mysql] 	If you need more help, copy and post this
+17:54:19  [mysql] 	entire log window on the forums
+17:54:55  [main] 	Deinitializing Modules
+17:54:55  [main] 	Deinitializing Control Panel
+
+11:05:21  [main] 	Initializing Control Panel
+11:05:21  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+11:05:21  [main] 	XAMPP Version: 5.6.28
+11:05:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:05:21  [main] 	You are not running with administrator rights! This will work for
+11:05:21  [main] 	most application stuff but whenever you do something with services
+11:05:21  [main] 	there will be a security dialogue or things will break! So think 
+11:05:21  [main] 	about running this application with administrator rights!
+11:05:21  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:05:21  [main] 	Checking for prerequisites
+11:05:22  [main] 	All prerequisites found
+11:05:22  [main] 	Initializing Modules
+11:05:22  [main] 	The FileZilla module is disabled
+11:05:22  [main] 	The Mercury module is disabled
+11:05:22  [main] 	Enabling autostart for module "Apache"
+11:05:22  [main] 	Enabling autostart for module "MySQL"
+11:05:22  [main] 	Starting Check-Timer
+11:05:22  [main] 	Control Panel Ready
+11:05:22  [Apache] 	Autostart active: starting...
+11:05:22  [Apache] 	Attempting to start Apache app...
+11:05:23  [mysql] 	Autostart active: starting...
+11:05:23  [mysql] 	Attempting to start MySQL app...
+11:05:23  [Apache] 	Status change detected: running
+11:05:23  [mysql] 	Status change detected: running
+11:58:38  [main] 	Deinitializing Modules
+11:58:38  [main] 	Deinitializing Control Panel
+
+13:19:21  [main] 	Initializing Control Panel
+13:19:21  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+13:19:21  [main] 	XAMPP Version: 5.6.28
+13:19:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+13:19:21  [main] 	You are not running with administrator rights! This will work for
+13:19:21  [main] 	most application stuff but whenever you do something with services
+13:19:21  [main] 	there will be a security dialogue or things will break! So think 
+13:19:21  [main] 	about running this application with administrator rights!
+13:19:21  [main] 	XAMPP Installation Directory: "g:\xampp\"
+13:19:21  [main] 	Checking for prerequisites
+13:19:21  [main] 	All prerequisites found
+13:19:21  [main] 	Initializing Modules
+13:19:21  [Apache] 	Problem detected!
+13:19:21  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:21  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:21  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:21  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:21  [Apache] 	Problem detected!
+13:19:21  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:21  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:21  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:21  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:21  [mysql] 	Problem detected!
+13:19:21  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:21  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:21  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:21  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:21  [main] 	The FileZilla module is disabled
+13:19:21  [main] 	The Mercury module is disabled
+13:19:21  [main] 	Enabling autostart for module "Apache"
+13:19:21  [main] 	Enabling autostart for module "MySQL"
+13:19:21  [main] 	Starting Check-Timer
+13:19:21  [main] 	Control Panel Ready
+13:19:22  [Apache] 	Autostart active: starting...
+13:19:22  [Apache] 	Problem detected!
+13:19:22  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:22  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:22  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:22  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:22  [Apache] 	Problem detected!
+13:19:22  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:22  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:22  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:22  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:22  [Apache] 	Attempting to start Apache app...
+13:19:22  [mysql] 	Autostart active: starting...
+13:19:22  [mysql] 	Problem detected!
+13:19:22  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:22  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:22  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:22  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:22  [mysql] 	Attempting to start MySQL app...
+13:19:23  [Apache] 	Status change detected: running
+13:19:23  [mysql] 	Status change detected: running
+13:19:26  [Apache] 	Status change detected: stopped
+13:19:26  [Apache] 	Error: Apache shutdown unexpectedly.
+13:19:26  [Apache] 	This may be due to a blocked port, missing dependencies, 
+13:19:26  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+13:19:26  [Apache] 	Press the Logs button to view error logs and check
+13:19:26  [Apache] 	the Windows Event Viewer for more clues
+13:19:26  [Apache] 	If you need more help, copy and post this
+13:19:26  [Apache] 	entire log window on the forums
+13:19:28  [mysql] 	Status change detected: stopped
+13:19:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:19:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:19:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:19:28  [mysql] 	Press the Logs button to view error logs and check
+13:19:28  [mysql] 	the Windows Event Viewer for more clues
+13:19:28  [mysql] 	If you need more help, copy and post this
+13:19:28  [mysql] 	entire log window on the forums
+13:19:29  [main] 	Deinitializing Modules
+13:19:29  [main] 	Deinitializing Control Panel
+
+13:19:57  [main] 	Initializing Control Panel
+13:19:57  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+13:19:57  [main] 	XAMPP Version: 5.6.28
+13:19:57  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+13:19:57  [main] 	You are not running with administrator rights! This will work for
+13:19:57  [main] 	most application stuff but whenever you do something with services
+13:19:57  [main] 	there will be a security dialogue or things will break! So think 
+13:19:57  [main] 	about running this application with administrator rights!
+13:19:57  [main] 	XAMPP Installation Directory: "g:\xampp\"
+13:19:57  [main] 	Checking for prerequisites
+13:19:57  [main] 	All prerequisites found
+13:19:57  [main] 	Initializing Modules
+13:19:57  [Apache] 	Problem detected!
+13:19:57  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:57  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:57  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:57  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:57  [Apache] 	Problem detected!
+13:19:57  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:57  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:57  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:57  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:57  [mysql] 	Problem detected!
+13:19:57  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:57  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:57  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:57  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:57  [main] 	The FileZilla module is disabled
+13:19:57  [main] 	The Mercury module is disabled
+13:19:57  [main] 	Enabling autostart for module "Apache"
+13:19:57  [main] 	Enabling autostart for module "MySQL"
+13:19:57  [main] 	Starting Check-Timer
+13:19:57  [main] 	Control Panel Ready
+13:19:58  [Apache] 	Autostart active: starting...
+13:19:58  [Apache] 	Problem detected!
+13:19:58  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:58  [Apache] 	Problem detected!
+13:19:58  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:58  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:58  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:58  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:58  [Apache] 	Attempting to start Apache app...
+13:19:58  [mysql] 	Autostart active: starting...
+13:19:58  [mysql] 	Problem detected!
+13:19:58  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:58  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:58  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:58  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:58  [mysql] 	Attempting to start MySQL app...
+13:19:58  [Apache] 	Status change detected: running
+13:19:58  [mysql] 	Status change detected: running
+13:20:00  [Apache] 	Status change detected: stopped
+13:20:00  [Apache] 	Error: Apache shutdown unexpectedly.
+13:20:00  [Apache] 	This may be due to a blocked port, missing dependencies, 
+13:20:00  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+13:20:00  [Apache] 	Press the Logs button to view error logs and check
+13:20:00  [Apache] 	the Windows Event Viewer for more clues
+13:20:00  [Apache] 	If you need more help, copy and post this
+13:20:00  [Apache] 	entire log window on the forums
+13:20:01  [mysql] 	Status change detected: stopped
+13:20:01  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:20:01  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:20:01  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:20:01  [mysql] 	Press the Logs button to view error logs and check
+13:20:01  [mysql] 	the Windows Event Viewer for more clues
+13:20:01  [mysql] 	If you need more help, copy and post this
+13:20:01  [mysql] 	entire log window on the forums
+13:20:03  [main] 	Deinitializing Modules
+13:20:03  [main] 	Deinitializing Control Panel
+
+13:19:35  [main] 	Initializing Control Panel
+13:19:35  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+13:19:35  [main] 	XAMPP Version: 5.6.28
+13:19:35  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+13:19:35  [main] 	You are not running with administrator rights! This will work for
+13:19:35  [main] 	most application stuff but whenever you do something with services
+13:19:35  [main] 	there will be a security dialogue or things will break! So think 
+13:19:35  [main] 	about running this application with administrator rights!
+13:19:35  [main] 	XAMPP Installation Directory: "g:\xampp\"
+13:19:35  [main] 	Checking for prerequisites
+13:19:35  [main] 	All prerequisites found
+13:19:35  [main] 	Initializing Modules
+13:19:35  [Apache] 	Problem detected!
+13:19:35  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:35  [Apache] 	Problem detected!
+13:19:35  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:35  [mysql] 	Problem detected!
+13:19:35  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:35  [main] 	The FileZilla module is disabled
+13:19:35  [main] 	The Mercury module is disabled
+13:19:35  [main] 	Enabling autostart for module "Apache"
+13:19:35  [main] 	Enabling autostart for module "MySQL"
+13:19:35  [main] 	Starting Check-Timer
+13:19:35  [main] 	Control Panel Ready
+13:19:36  [Apache] 	Autostart active: starting...
+13:19:36  [Apache] 	Problem detected!
+13:19:36  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:36  [Apache] 	Problem detected!
+13:19:36  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:36  [Apache] 	Attempting to start Apache app...
+13:19:36  [mysql] 	Autostart active: starting...
+13:19:36  [mysql] 	Problem detected!
+13:19:36  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:36  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:36  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:36  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:36  [mysql] 	Attempting to start MySQL app...
+13:19:36  [Apache] 	Status change detected: running
+13:19:36  [mysql] 	Status change detected: running
+13:19:38  [Apache] 	Status change detected: stopped
+13:19:38  [Apache] 	Error: Apache shutdown unexpectedly.
+13:19:38  [Apache] 	This may be due to a blocked port, missing dependencies, 
+13:19:38  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+13:19:38  [Apache] 	Press the Logs button to view error logs and check
+13:19:38  [Apache] 	the Windows Event Viewer for more clues
+13:19:38  [Apache] 	If you need more help, copy and post this
+13:19:38  [Apache] 	entire log window on the forums
+13:19:39  [mysql] 	Status change detected: stopped
+13:19:39  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:19:39  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:19:39  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:19:39  [mysql] 	Press the Logs button to view error logs and check
+13:19:39  [mysql] 	the Windows Event Viewer for more clues
+13:19:39  [mysql] 	If you need more help, copy and post this
+13:19:39  [mysql] 	entire log window on the forums
+13:19:41  [Apache] 	Problem detected!
+13:19:41  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:41  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:41  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:41  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:41  [Apache] 	Problem detected!
+13:19:41  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 3432!
+13:19:41  [Apache] 	Apache WILL NOT start without the configured ports free!
+13:19:41  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:41  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+13:19:41  [Apache] 	Attempting to start Apache app...
+13:19:41  [Apache] 	Status change detected: running
+13:19:41  [mysql] 	Problem detected!
+13:19:41  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+13:19:41  [mysql] 	MySQL WILL NOT start without the configured ports free!
+13:19:41  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+13:19:41  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+13:19:41  [mysql] 	Attempting to start MySQL app...
+13:19:41  [mysql] 	Status change detected: running
+13:19:42  [Apache] 	Status change detected: stopped
+13:19:42  [Apache] 	Error: Apache shutdown unexpectedly.
+13:19:42  [Apache] 	This may be due to a blocked port, missing dependencies, 
+13:19:42  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+13:19:42  [Apache] 	Press the Logs button to view error logs and check
+13:19:42  [Apache] 	the Windows Event Viewer for more clues
+13:19:42  [Apache] 	If you need more help, copy and post this
+13:19:42  [Apache] 	entire log window on the forums
+13:19:44  [mysql] 	Status change detected: stopped
+13:19:44  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:19:44  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:19:44  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:19:44  [mysql] 	Press the Logs button to view error logs and check
+13:19:44  [mysql] 	the Windows Event Viewer for more clues
+13:19:44  [mysql] 	If you need more help, copy and post this
+13:19:44  [mysql] 	entire log window on the forums
+13:19:58  [Apache] 	Status change detected: running
+13:19:58  [mysql] 	Status change detected: running
+13:20:00  [Apache] 	Status change detected: stopped
+13:20:00  [Apache] 	Error: Apache shutdown unexpectedly.
+13:20:00  [Apache] 	This may be due to a blocked port, missing dependencies, 
+13:20:00  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+13:20:00  [Apache] 	Press the Logs button to view error logs and check
+13:20:00  [Apache] 	the Windows Event Viewer for more clues
+13:20:00  [Apache] 	If you need more help, copy and post this
+13:20:00  [Apache] 	entire log window on the forums
+13:20:01  [mysql] 	Status change detected: stopped
+13:20:01  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:20:01  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:20:01  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:20:01  [mysql] 	Press the Logs button to view error logs and check
+13:20:01  [mysql] 	the Windows Event Viewer for more clues
+13:20:01  [mysql] 	If you need more help, copy and post this
+13:20:01  [mysql] 	entire log window on the forums
+13:20:05  [main] 	Deinitializing Modules
+13:20:05  [main] 	Deinitializing Control Panel
+
+14:34:35  [main] 	Initializing Control Panel
+14:34:35  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+14:34:35  [main] 	XAMPP Version: 5.6.28
+14:34:35  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:34:35  [main] 	You are not running with administrator rights! This will work for
+14:34:35  [main] 	most application stuff but whenever you do something with services
+14:34:35  [main] 	there will be a security dialogue or things will break! So think 
+14:34:35  [main] 	about running this application with administrator rights!
+14:34:35  [main] 	XAMPP Installation Directory: "g:\xampp\"
+14:34:35  [main] 	Checking for prerequisites
+14:34:35  [main] 	All prerequisites found
+14:34:35  [main] 	Initializing Modules
+14:34:35  [Apache] 	Problem detected!
+14:34:35  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:34:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:34:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:34:35  [Apache] 	Problem detected!
+14:34:35  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:34:35  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:34:35  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:35  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:34:35  [mysql] 	Problem detected!
+14:34:35  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+14:34:35  [mysql] 	MySQL WILL NOT start without the configured ports free!
+14:34:35  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:35  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+14:34:35  [main] 	The FileZilla module is disabled
+14:34:35  [main] 	The Mercury module is disabled
+14:34:35  [main] 	Enabling autostart for module "Apache"
+14:34:35  [main] 	Enabling autostart for module "MySQL"
+14:34:35  [main] 	Starting Check-Timer
+14:34:35  [main] 	Control Panel Ready
+14:34:36  [Apache] 	Autostart active: starting...
+14:34:36  [Apache] 	Problem detected!
+14:34:36  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:34:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:34:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:34:36  [Apache] 	Problem detected!
+14:34:36  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:34:36  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:34:36  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:36  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:34:36  [Apache] 	Attempting to start Apache app...
+14:34:36  [mysql] 	Autostart active: starting...
+14:34:36  [mysql] 	Problem detected!
+14:34:36  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+14:34:36  [mysql] 	MySQL WILL NOT start without the configured ports free!
+14:34:36  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+14:34:36  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+14:34:36  [mysql] 	Attempting to start MySQL app...
+14:34:37  [Apache] 	Status change detected: running
+14:34:37  [mysql] 	Status change detected: running
+14:34:48  [Apache] 	Status change detected: stopped
+14:34:48  [Apache] 	Error: Apache shutdown unexpectedly.
+14:34:48  [Apache] 	This may be due to a blocked port, missing dependencies, 
+14:34:48  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+14:34:48  [Apache] 	Press the Logs button to view error logs and check
+14:34:48  [Apache] 	the Windows Event Viewer for more clues
+14:34:48  [Apache] 	If you need more help, copy and post this
+14:34:48  [Apache] 	entire log window on the forums
+14:34:50  [mysql] 	Status change detected: stopped
+14:34:50  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:34:50  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:34:50  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:34:50  [mysql] 	Press the Logs button to view error logs and check
+14:34:50  [mysql] 	the Windows Event Viewer for more clues
+14:34:50  [mysql] 	If you need more help, copy and post this
+14:34:50  [mysql] 	entire log window on the forums
+14:35:03  [Apache] 	Problem detected!
+14:35:03  [Apache] 	Port 80 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:35:03  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:35:03  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:35:03  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:35:03  [Apache] 	Problem detected!
+14:35:03  [Apache] 	Port 443 in use by "e:\xampp\apache\bin\httpd.exe" with PID 5424!
+14:35:03  [Apache] 	Apache WILL NOT start without the configured ports free!
+14:35:03  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+14:35:03  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+14:35:03  [Apache] 	Attempting to start Apache app...
+14:35:03  [Apache] 	Status change detected: running
+14:35:04  [mysql] 	Problem detected!
+14:35:04  [mysql] 	Port 3306 in use by "e:\xampp\mysql\bin\mysqld.exe"!
+14:35:04  [mysql] 	MySQL WILL NOT start without the configured ports free!
+14:35:04  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+14:35:04  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+14:35:04  [mysql] 	Attempting to start MySQL app...
+14:35:04  [Apache] 	Status change detected: stopped
+14:35:04  [Apache] 	Error: Apache shutdown unexpectedly.
+14:35:04  [Apache] 	This may be due to a blocked port, missing dependencies, 
+14:35:04  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+14:35:04  [Apache] 	Press the Logs button to view error logs and check
+14:35:04  [Apache] 	the Windows Event Viewer for more clues
+14:35:04  [Apache] 	If you need more help, copy and post this
+14:35:04  [Apache] 	entire log window on the forums
+14:35:04  [mysql] 	Status change detected: running
+14:35:07  [mysql] 	Status change detected: stopped
+14:35:07  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:35:07  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:35:07  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:35:07  [mysql] 	Press the Logs button to view error logs and check
+14:35:07  [mysql] 	the Windows Event Viewer for more clues
+14:35:07  [mysql] 	If you need more help, copy and post this
+14:35:07  [mysql] 	entire log window on the forums
+14:35:24  [main] 	Deinitializing Modules
+14:35:24  [main] 	Deinitializing Control Panel
+
+14:36:55  [main] 	Initializing Control Panel
+14:36:55  [main] 	Windows Version: Windows 8.1 Enterprise  64-bit
+14:36:55  [main] 	XAMPP Version: 5.6.28
+14:36:55  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:36:55  [main] 	You are not running with administrator rights! This will work for
+14:36:55  [main] 	most application stuff but whenever you do something with services
+14:36:55  [main] 	there will be a security dialogue or things will break! So think 
+14:36:55  [main] 	about running this application with administrator rights!
+14:36:55  [main] 	XAMPP Installation Directory: "g:\xampp\"
+14:36:55  [main] 	Checking for prerequisites
+14:36:55  [main] 	All prerequisites found
+14:36:55  [main] 	Initializing Modules
+14:36:55  [main] 	The FileZilla module is disabled
+14:36:55  [main] 	The Mercury module is disabled
+14:36:55  [main] 	Enabling autostart for module "Apache"
+14:36:55  [main] 	Enabling autostart for module "MySQL"
+14:36:55  [main] 	Starting Check-Timer
+14:36:55  [main] 	Control Panel Ready
+14:36:56  [Apache] 	Autostart active: starting...
+14:36:56  [Apache] 	Attempting to start Apache app...
+14:36:56  [mysql] 	Autostart active: starting...
+14:36:56  [mysql] 	Attempting to start MySQL app...
+14:36:56  [Apache] 	Status change detected: running
+14:36:56  [mysql] 	Status change detected: running
+14:37:29  [Apache] 	Attempting to stop Apache (PID: 5968)
+14:37:30  [mysql] 	Attempting to stop MySQL app...
+14:37:36  [Apache] 	Status change detected: stopped
+14:37:39  [Apache] 	Attempting to start Apache app...
+14:37:53  [Apache] 	Status change detected: running
+14:37:53  [mysql] 	Status change detected: stopped
+14:37:56  [mysql] 	Attempting to start MySQL app...
+14:37:56  [mysql] 	Status change detected: running
+14:39:29  [main] 	Deinitializing Modules
+14:39:29  [main] 	Deinitializing Control Panel
+
+14:33:35  [main] 	Initializing Control Panel
+14:33:35  [main] 	Windows Version:  Home  64-bit
+14:33:35  [main] 	XAMPP Version: 5.6.28
+14:33:35  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:33:35  [main] 	You are not running with administrator rights! This will work for
+14:33:35  [main] 	most application stuff but whenever you do something with services
+14:33:35  [main] 	there will be a security dialogue or things will break! So think 
+14:33:35  [main] 	about running this application with administrator rights!
+14:33:35  [main] 	XAMPP Installation Directory: "f:\xampp\"
+14:33:36  [main] 	Checking for prerequisites
+14:33:37  [main] 	All prerequisites found
+14:33:37  [main] 	Initializing Modules
+14:33:37  [main] 	The FileZilla module is disabled
+14:33:37  [main] 	The Mercury module is disabled
+14:33:37  [main] 	Enabling autostart for module "Apache"
+14:33:37  [main] 	Enabling autostart for module "MySQL"
+14:33:37  [main] 	Starting Check-Timer
+14:33:37  [main] 	Control Panel Ready
+14:33:37  [Apache] 	Autostart aborted: Apache is already running
+14:33:37  [mysql] 	Autostart aborted: MySQL is already running
+14:52:33  [mysql] 	Attempting to stop MySQL app...
+14:52:34  [mysql] 	Status change detected: stopped
+14:52:34  [Apache] 	Attempting to stop Apache (PID: 28956)
+14:52:34  [Apache] 	Attempting to stop Apache (PID: 16684)
+14:52:34  [Apache] 	Status change detected: stopped
+14:54:05  [main] 	Deinitializing Modules
+14:54:05  [main] 	Deinitializing Control Panel
+
